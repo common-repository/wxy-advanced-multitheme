@@ -1,0 +1,4 @@
+@charset "UTF-8";
+
+.wxy-base64-on-off-help-btn { width:25px;height:25px;line-height:25px;background-color:#AAA;text-align:center;color:#FFF;font-size:17px;font-weight:bold;position:relative;float:right;top:3px;-moz-border-radius:50px;-webkit-border-radius:50px;-khtml-border-radius:50px; border-radius:50px;border-radius:50px; }
+.wxy-base64-on-off-help-btn:hover { background-color:#000;cursor:pointer; }
